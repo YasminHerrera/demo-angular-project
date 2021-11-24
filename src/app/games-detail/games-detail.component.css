@@ -1,0 +1,16 @@
+  table {
+    width: 100%;
+  }
+
+  h1 {
+    margin: 8px 0;
+  }
+
+  .button-row {
+    display: table-cell;
+    width: 490px;
+  }
+
+  .button-row .mat-button-base {
+    margin: 8px 8px 8px 0;
+  }
